@@ -83,5 +83,10 @@ def page_parsing():
 
 
 
-#main код
-page_parsing()
+#main-функция
+def main():
+    page_parsing()
+
+#исполнение программы, вызовом главной функции
+main()
+
